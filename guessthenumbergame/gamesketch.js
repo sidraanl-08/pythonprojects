@@ -1,3 +1,5 @@
+// this game was originally made in python!!!
+
 let target;
 let guessInput;
 let message = "";
