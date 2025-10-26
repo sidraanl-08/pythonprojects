@@ -34,27 +34,27 @@ pip install -r requirements.txt
 
 📝 Projects
 
-Calculator - Perform basic arithmetic operations.
+1. Calculator - Perform basic arithmetic operations.
 
-Emoji Translator - Converts text into emojis.
+2. Emoji Translator - Converts text into emojis.
 
-Guess The Number Game - A number guessing game with hints.
+3. Guess The Number Game - A number guessing game with hints.
 
-Hangman Game - Classic hangman with limited tries.
+4. Hangman Game - Classic hangman with limited tries.
 
-Joke Generator - Generates random programmer jokes using pyjokes.
+5. Joke Generator - Generates random programmer jokes using pyjokes.
 
-Mad Libs - Fun story generator using user input.
+6. Mad Libs - Fun story generator using user input.
 
-Mini To-Do List Manager - Manage tasks by adding and removing tasks.
+7. Mini To-Do List Manager - Manage tasks by adding and removing tasks.
 
-Palindrome Checker - Checks if a string is a palindrome.
+8. Palindrome Checker - Checks if a string is a palindrome.
 
-Python Quiz - Multiple-choice quiz on Python basics.
+9. Python Quiz - Multiple-choice quiz on Python basics.
 
-Simple Chatbot - Interactive chatbot responding to pre-defined phrases.
+10. Simple Chatbot - Interactive chatbot responding to pre-defined phrases.
 
-Snake, Gun, Water Game - Variation of rock-paper-scissors.
+11. Snake, Gun, Water Game - Variation of rock-paper-scissors.
 
 Each project is designed to be beginner-friendly and focused on learning Python fundamentals.
 
