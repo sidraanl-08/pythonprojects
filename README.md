@@ -1,7 +1,14 @@
 # 🐍 Python Beginner Projects
 
 **Author:** Sidraa   
-**Description:** A collection of beginner-friendly Python projects to practice core concepts such as loops, functions, conditionals, and user interaction. These projects are simple, instructional, and fun!  
+**Description:** A collection of beginner-friendly Python projects to practice core concepts such as loops, functions, conditionals, and user interaction. These projects are simple, instructional, and fun! 
+**Dated:** 26th October 2025
+**Python Version:** 3.13.5 (or compatible 3.x)
+**Skills Covered:** Variables, Loops, Functions, Conditionals, Input/Output, Error Handling, Basic Game Logic
+**Project Type:** Beginner / Educational / Practical
+**Dependencies:** pyjokes==0.8.3 (for Joke Generator project)
+**License:** MIT
+**Email:** [sidraa.nl08@gmail.com]
 
 ---
 
